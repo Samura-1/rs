@@ -1,8 +1,6 @@
 # rs
 	background: -webkit-linear-gradient(134.8deg, rgb(93, 79, 212) 48%, rgb(69, 20, 154) 46%);
-  
-  
-  
+	
 @font-face {
 font-family: Montserrat; /* Имя шрифта */
 src: url(../fonts/Montserrat-Black.ttf); /* Путь к файлу со шрифтом */
